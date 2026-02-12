@@ -1,6 +1,12 @@
-# Taller2
-Primer taller lógica de programación 
+# 🚀 primer_programa
+
+---
+
 ## Equipo
 #### Jordan Restrepo Tobon
 #### Juan Andres Vallejo Orozco
 #### Felipe Londoño Ospina
+
+---
+
+## 📌 Descripción del Proyecto
