@@ -10,3 +10,16 @@
 ---
 
 ## 📌 Descripción del Proyecto
+
+---
+
+## ▶️ Instrucciones para Ejecutar los Programas
+
+### 🔹 1. Requisitos
+
+- Tener instalado **Java JDK**.
+- Verificar instalación con:
+
+```bash
+java -version
+javac -version
