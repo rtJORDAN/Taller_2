@@ -10,9 +10,9 @@ Además, el proyecto incluye evidencias del uso de terminal, documentación de i
 ---
 
 ## 👥 Integrantes del Equipo
-- 👤 Felipe Londoño Ospina - Encargado del punto 1
-- 👤 Juan Andrés Vallejo - Encargado del punto 4
-- 👤 Jordan Restrepo Tobón - Encargado del punto 2, 3
+- 👤 Felipe Londoño Ospina - Encargado del punto 1, 5, 6, 7, 8, 9
+- 👤 Juan Andrés Vallejo - Encargado del punto 4, 5, 6, 7, 8, 9
+- 👤 Jordan Restrepo Tobón - Encargado del punto 2, 3, 5, 6, 7, 8, 9
 
 ---
 
