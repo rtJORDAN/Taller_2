@@ -1,2 +1,2 @@
-# taller1
+# Taller2
 primer taller lógica de programación 
