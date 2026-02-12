@@ -1,25 +1,29 @@
-# 🚀 primer_programa
+# Taller2
+primer taller lógica de programación en equipo
 
----
+## Descripción del proyecto
+Este repositorio contiene el desarrollo del Primer Programa en Java realizado para la asignatura de Lógica. El objetivo del proyecto es practicar el uso de GitHub, trabajo colaborativo mediante Issues y Pull Requests, documentación en Markdown y la creación de un programa básico en Java que interactúe con el usuario desde la consola. 
+Además, el proyecto incluye evidencias del uso de terminal, documentación de instalación del entorno de desarrollo y la presentación del tema asignado para exposición.
 
-## Equipo
-#### Jordan Restrepo Tobon
-#### Juan Andres Vallejo Orozco
-#### Felipe Londoño Ospina
+## Información del equipo
+- Felipe Londoño Ospina - Encargado del punto 1
+- Juan Andrés Vallejo - Encargado del punto 4
+- Jordan Restrepo Tobón - Encargado del punto 2, 3
 
----
-
-## 📌 Descripción del Proyecto
-
----
-
-## ▶️ Instrucciones para Ejecutar los Programas
-
-### 🔹 1. Requisitos
-
-- Tener instalado **Java JDK**.
-- Verificar instalación con:
-
-```bash
-java -version
-javac -version
+## Enlaces a recursos utilizados
+Referentes - Terminal y Git
+- CMD Challenge – Práctica de línea de comandos
+- Sintaxis básica de Markdown – GitHub
+- Learn Git Branching – Tutorial interactivo
+- Colaborar con Pull Requests – GitHub
+Referentes - Java y Programación
+- Tutorial oficial de Java – Oracle
+- Java en VS Code – Tutorial oficial
+- Descargar Java JDK
+- W3Schools – Introducción a Java
+- Codecademy – Aprende Java
+Referentes - Temas de exposición
+- Khan Academy – Ciencias de la Computación
+- Coursera – Fundamentos de Programación
+- Crash Course Computer Science
+- How Stuff Works – Computadoras
