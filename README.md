@@ -9,6 +9,20 @@ Además, el proyecto incluye evidencias del uso de terminal, documentación de i
 
 ---
 
+## ▶️ Instrucciones para ejecutar el programa
+
+### ✅ Requisitos
+- Tener instalado **Java JDK**.
+- Terminal (Git Bash, CMD o PowerShell).
+- Opcional: Visual Studio Code con extensión de Java.
+
+Verificar instalación de Java:
+
+java -version
+javac -version
+
+---
+
 ## 👥 Integrantes del Equipo
 - 👤 Felipe Londoño Ospina - Encargado del punto 1, 5, 6, 7, 8, 9
 - 👤 Juan Andrés Vallejo - Encargado del punto 4, 5, 6, 7, 8, 9
@@ -17,19 +31,14 @@ Además, el proyecto incluye evidencias del uso de terminal, documentación de i
 ---
 
 ## Enlaces a recursos utilizados
-Referentes - Terminal y Git
-- CMD Challenge – Práctica de línea de comandos
-- Sintaxis básica de Markdown – GitHub
-- Learn Git Branching – Tutorial interactivo
-- Colaborar con Pull Requests – GitHub
-Referentes - Java y Programación
-- Tutorial oficial de Java – Oracle
-- Java en VS Code – Tutorial oficial
-- Descargar Java JDK
-- W3Schools – Introducción a Java
-- Codecademy – Aprende Java
-Referentes - Temas de exposición
-- Khan Academy – Ciencias de la Computación
-- Coursera – Fundamentos de Programación
-- Crash Course Computer Science
-- How Stuff Works – Computadoras
+- Tanenbaum, A. S., & Bos, H. (2015). Modern Operating Systems. Pearson.
+- Silberschatz, A., Galvin, P., & Gagne, G. (2018). Operating System Concepts. Wiley.
+- Stallings, W. (2019). Computer Organization and Architecture. Pearson.
+- Microsoft Learn. (s.f.). Memory management and RAM basics.
+https://learn.microsoft.com
+- Intel. (s.f.). What is RAM and how does it work?
+https://www.intel.com
+- IBM Documentation. (s.f.). Random Access Memory (RAM).
+https://www.ibm.com/docs
+- GeeksforGeeks. (s.f.). What is RAM?
+https://www.geeksforgeeks.org
